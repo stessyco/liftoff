@@ -20,7 +20,7 @@
 }
 
 @media(max-width: 800px){
-  .logo{
+  .logo-container{
     width: 40%;
     left:30%;
     margin-top: 10%;
