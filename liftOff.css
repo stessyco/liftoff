@@ -15,15 +15,18 @@
 .logo-container {
   width: 20%;
   margin: 0 auto;
-  margin-top: 20%;
 }
 
-@media(max-width: 800px){
-  .logo-container{
-    width: 40%;
-    left:30%;
-    margin-top: 10%;
+ .logo-container img{
+    width: 100%;
   }
+
+@media(max-width: 400px){
+  .logo-container{
+    width: 70%;
+    left:15%;
+  }
+
 }
 
 .loader-container{
