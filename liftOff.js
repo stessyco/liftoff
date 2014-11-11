@@ -6,7 +6,7 @@ $.fn.liftOff = function(){
     	$(".loader-container").animate({bottom: '15%'}).promise
     })
 
-    div.delay(40000).animate({bottom:'100%'}, 400);
+    div.delay(4000).animate({bottom:'100%'}, 400);
 
  };
 
