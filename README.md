@@ -1,7 +1,7 @@
 liftoff
 =======
 
-A preloader plugin for jQuery
+A preloader plugin for jQuery - [VIEW DEMO]
 
 ### Getting started:
 
@@ -41,4 +41,4 @@ That's it! Enjoy your new preloader.
 
 If you would like to improve on this plugin, feel free to fork it.
 
-[liftOff.zip]:http://liftoff.stessy.co/liftoff.zip
+[VIEW DEMO]:http://liftoff.stessy.co/
