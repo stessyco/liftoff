@@ -5,7 +5,7 @@ A preloader plugin for jQuery
 
 ### Getting started:
 
-Start by downloading [liftOff.zip] (2KB) and copying the .js and .css files to your directory.
+Start by downloading and copying the .js and .css files to your directory.
 
 If you haven't already, link to jQuery from your HTML document. Below that, link to the location of liftOff.js in your directory.
 
